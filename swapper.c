@@ -1,4 +1,7 @@
-//Gregory Macri
+/*Gregory Macri
+
+This program was written to demonstrate the incorrect and correct ways to swap values with the use of pointers.
+*/
 #include <stdio.h>
 
 void swapWrong(int x,int y);
